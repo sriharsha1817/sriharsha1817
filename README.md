@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning  **Full Stack Web Development (HTML, CSS, JS),  **DSA** and 
-**Machine Learning And Algo**
-- 👨‍💻 Working on projects using **Python, **MERN stack,  and **Machine Learning**
-- 💬 Ask me about **Machine Learning, **Data Structures, **Python, and **Project Ideas**
+- 🌱 Currently learning  **Full Stack Web Development (HTML, CSS, JS)**, **DSA** and 
+ **Machine Learning And Algo**
+- 👨‍💻 Working on projects using **Python**, **MERN stack**,  and **Machine Learning**
+- 💬 Ask me about **Machine Learning**, **Data Structures**, **Python**, and **Project Ideas**
 - 📫 Reach me at: **sriharsha8171@gmail.com**
 - ⚡fun fact: Love to aspire new things everyday !
 
