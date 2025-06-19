@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sri Harsha</h1>
 
-<h3 align="center">A passionate pre final year CSE-AIML student at Malla Reddy College Of Engineering And Technology. Aspiring full-stack web developer and AI enthusiast.</h3>
+<h3 align="center">A committed pre-final year Computer Science and Engineering (AI & ML) student at Malla Reddy College of Engineering and Technology, with a strong passion for Full-Stack Development, Artificial Intelligence & Machine Learning, and Prompt Engineering.</h3>
 
 ## 🚀 About Me
 
@@ -51,6 +51,7 @@
 - 👨‍💻 [Banking System](https://github.com/sriharsha1817/Banking-System.git) — A C++-based CLI application for managing bank accounts with file handling and exception support.
 - 👨‍💻 [Blood Bank Management System]
 (https://github.com/sriharsha1817/Blood-Bank-Management-System-Enhancing-Blood-Donation-Accessibility.git) — A role-based Flask web app for managing blood donations, real-time requests, and stock using SSE, MySQL, and Flask-Login.
+- 👨‍💻 [EcoVision – A GDP Analysis Dashboard](https://github.com/sriharsha1817/gdp_streamlit_app.git) — 🌍 GDP per Capita Analysis Dashboard A comprehensive Streamlit web application for analyzing global GDP per capita data with interactive visualizations and insights.
 
 ---
 
