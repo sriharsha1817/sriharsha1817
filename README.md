@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning  **Full Stack Web Development (HTML, CSS, JS)**, **DSA** and 
- **Machine Learning And Algo**
+ **Machine Learning And Algorithms**
 - 👨‍💻 Working on projects using **Python**, **MERN stack**,  and **Machine Learning**
 - 💬 Ask me about **Machine Learning**, **Data Structures**, **Python**, and **Project Ideas**
 - 📫 Reach me at: **sriharsha8171@gmail.com**
@@ -15,7 +15,7 @@
 
 ## 📚 Education
 
-- *B.Tech CSE-AIML, **Malla Reddy College Of Engineering And Technology*   
+- **B.Tech CSE-AIML**, **Malla Reddy College Of Engineering And Technology** 
 
 ---
 
