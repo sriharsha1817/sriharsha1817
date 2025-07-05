@@ -49,8 +49,7 @@
 
 - 👨‍💻[sms_spam-detection](https://github.com/sriharsha1817/sms_spam-detection) — A machine learning model that detects spam messages using Scikit-learn, Streamlit, and extensive EDA and preprocessing.
 - 👨‍💻 [Banking System](https://github.com/sriharsha1817/Banking-System.git) — A C++-based CLI application for managing bank accounts with file handling and exception support.
-- 👨‍💻 [Blood Bank Management System]
-(https://github.com/sriharsha1817/Blood-Bank-Management-System-Enhancing-Blood-Donation-Accessibility.git) — A role-based Flask web app for managing blood donations, real-time requests, and stock using SSE, MySQL, and Flask-Login.
+- 👨‍💻 [Blood Bank Management System](https://github.com/sriharsha1817/Blood-Bank-Management-System-Enhancing-Blood-Donation-Accessibility.git) — A role-based Flask web app for managing blood donations, real-time requests, and stock using SSE, MySQL, and Flask-Login.
 - 👨‍💻[GestureSnake: Hand-Controlled Adventure](https://github.com/sriharsha1817/GestureSnake-Hand-Controlled-Adventure.git) —  A Python-based OpenCV game where the snake is controlled using real-time hand gestures via MediaPipe with dynamic speed and intuitive palm tracking.
 - 👨‍💻[RAG-GPT](https://github.com/sriharsha1817/Gemini-Powered-Custom-Document-Q-A-Assistant-RAG-GPT-.git) —  A Streamlit-based RAG chatbot that lets users upload PDF, DOCX, or TXT files and ask questions, retrieving relevant chunks using TF-IDF and generating contextual answers via Google's Gemini API with source tracking and chat history.
 
