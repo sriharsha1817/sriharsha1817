@@ -3,14 +3,20 @@
 <h3 align="center">I am a final-year B.Tech Computer Science (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy building real-world projects using Python, C++, SQL, and Generative AI while solving real-world problems through technology.</h3>
 
 ## 🚀 About Me
-🚀 About Me
-🎓 Final-year B.Tech in Computer Science (AI & ML)
-🌱 Currently learning Data Structures & Algorithms, System Design, MERN Stack, and Generative AI
-💻 Building projects with Python, C++, Machine Learning, RAG, Streamlit, Flask, and the MERN Stack
-🤖 Interested in Software Engineering, Artificial Intelligence, Machine Learning, and Backend Development
-💬 Ask me about Python, C++, DSA, Machine Learning, RAG Applications, and Full-Stack Development
-📫 Email: sriharsha8171@gmail.com
-🌟 Always exploring new technologies and building projects that solve real-world problems.
+
+**🎓 Final-year B.Tech in Computer Science (AI & ML)**
+
+**🌱 Currently learning Data Structures & Algorithms, System Design, MERN Stack, and Generative AI**
+
+**💻 Building projects with Python, C++, Machine Learning, RAG, Streamlit, Flask, and the MERN Stack**
+
+**🤖 Interested in Software Engineering, Artificial Intelligence, Machine Learning, and Backend Development**
+
+**💬 Ask me about Python, C++, DSA, Machine Learning, RAG Applications, and Full-Stack Development**
+
+**📫 Email: sriharsha8171@gmail.com**
+
+**🌟 Always exploring new technologies and building projects that solve real-world problems.**
 
 ---
 
@@ -62,22 +68,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
-## 🏆 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/harsha8171/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-
-  <a href="https://github.com/sriharsha1817">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
 ## 🏅 LeetCode Badges
 
 <p align="center">
-  <img src="./assets/50-days-2026.png" width="120"/>
   <img src="./assets/100-days-2025.png" width="120"/>
   <img src="./assets/50-days-active.png" width="120"/>
   <img src="./assets/june-badge.png" width="120"/>
@@ -97,7 +90,7 @@
 
 ## 🧠 Data Structures & Algorithms
 
-I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorithmic skills.
+I actively solve problems on **LeetCode** to sharpen my algorithmic skills.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/harsha8171?theme=dark&font=baloo&ext=heatmap)
 
@@ -131,15 +124,6 @@ I actively solve problems on **LeetCode** and **CodeChef** to sharpen my algorit
   <a href="https://leetcode.com/u/harsha8171/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="30" height="30"/>
   </a>
-
-
-
-
-
-## 📊 GitHub Stats
-
-![Harsha GitHub stats](https://github-readme-stats.vercel.app/api?username=sriharsha1817&theme=monakai&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharsha1817&theme=monakai&layout=compact)
 
 ---
 
