@@ -71,10 +71,10 @@
 ## 🏅 LeetCode Badges
 
 <p align="center">
-  <img src="./assets/100-days-2025.png" width="120"/>
-  <img src="./assets/50-days-active.png" width="120"/>
-  <img src="./assets/june-badge.png" width="120"/>
-  <img src="./assets/sql-50.png" width="120"/>
+  <img src="./assets/100-days-2025.gif" width="120"/>
+  <img src="./assets/50-days-active.gif" width="120"/>
+  <img src="./assets/june-badge.gif" width="120"/>
+  <img src="./assets/sql-50.gif" width="120"/>
 </p>
 
 ## 🔭 Projects & Highlights
